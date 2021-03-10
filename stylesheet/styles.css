@@ -77,8 +77,8 @@ img.top_cloud{
 }
 
 img.bottom_cloud{
-    position: absolute;
-    left: 300px;
+    position: relative;
+    right: 350px;
 }
 
 img.profile_pic{
